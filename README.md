@@ -14,4 +14,4 @@ This project implements an AI agent that can fetch and analyze stock market data
 - Python 3.9+
 - OpenAI API key
 ## Image
-![alt text](http://url/to/img.png)
+![img](https://github.com/user-attachments/assets/c92e8487-630e-46c8-b6f7-ad75c817f68a)
