@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  pythonaiagentstockmarket:
+    image: pythonaiagentstockmarket
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 8000:8000
